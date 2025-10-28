@@ -2,6 +2,7 @@
 #define MEDICO_H
 #include <string>
 #include "paciente.h"
+#include "receita.h"
 
 class Medico {
 private:

@@ -9,7 +9,9 @@ private:
     std::string historico;
 public:
     Paciente(std::string nome, std::string cpf);
+
     void adicionarHistorico(std::string entrada);
+    
     std::string getNome();
     std::string getCPF();
     std::string getHistorico();
