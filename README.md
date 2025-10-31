@@ -1,7 +1,3 @@
-# 🏥 Sistema de Gestão de Clínica (C++)
-
-
-
 ## 📁 Estrutura do Projeto
 
 | Pasta | Função |
@@ -18,4 +14,5 @@
 
 ```bash
 make all
+
 
