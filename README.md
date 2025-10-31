@@ -1,6 +1,6 @@
 # 🏥 Sistema de Gestão de Clínica (C++)
 
-Projeto desenvolvido para prática de **GitFlow**, **GitHub Projects (Kanban)** e **TDD**.
+
 
 ## 📁 Estrutura do Projeto
 
@@ -18,3 +18,4 @@ Projeto desenvolvido para prática de **GitFlow**, **GitHub Projects (Kanban)** 
 
 ```bash
 make all
+
